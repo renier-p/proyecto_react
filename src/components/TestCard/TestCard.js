@@ -1,3 +1,5 @@
+import "./TestCard.css";
+
 function TestCard(props) {
   const { img, titulo } = props;
 

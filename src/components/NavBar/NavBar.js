@@ -33,6 +33,7 @@ const NavBar = () => {
                 <p className="navbar-item">Llaveros</p>
               </div>
             </div>
+            <p className="navbar-item navbar-font">CONTACTO</p>
           </div>
 
           <div className="navbar-end">
