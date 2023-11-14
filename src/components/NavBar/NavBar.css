@@ -11,14 +11,6 @@
   color: #333;
 }
 
-/* Estilo y fuente para "Camisas", "Tazas", "Llaveros" */
-/* .navbar-item {
-  font-size: 14px;
-  font-weight: normal;
-  font-family: "OtraFuente", sans-serif;
-  color: #555; 
-} */
-
 .navbar-dropdown .navbar-item {
   transition: background-color 0.3s;
 }
@@ -38,9 +30,6 @@
   align-items: center;
 }
 
-/* NavBar.css */
-
-/* Cambiar el fondo a blanco */
 .navbar {
   background-color: white;
 }
@@ -104,4 +93,8 @@ p::before {
   transform-origin: left;
   transform: scaleX(1);
   transition-timing-function: cubic-bezier(0.2, 1, 0.82, 0.94);
+}
+
+.navbar-dropdown-margin {
+  margin-top: 4px;
 }
